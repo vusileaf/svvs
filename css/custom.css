@@ -78,7 +78,8 @@ bg_data {
 }
 
 .box_s_1 {
-    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.616);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.616);
+    border-radius: 2em;
 }
 
 .scale_img {
@@ -89,4 +90,13 @@ bg_data {
 .scale_img:hover {
     transition: .3s;
     transform: rotate(15deg);
+}
+
+.slide_img {
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.616);
+    border-radius: 2em;
+}
+
+.testimonial {
+    margin: 4em;
 }

@@ -11,7 +11,7 @@
 
 
 <div class="site-section bg-light">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row mb-5">
       <div class="col-12 text-center">
         <span class="text-cursive h5 text-red d-block">Messages</span>
@@ -19,26 +19,23 @@
       </div>
     </div>
     <div class="row justify-content-center">
-      <div class="col-md-12" style="border-radius:50px !important;">
-        <div class="testimonial-3-wrap box_s_1">
-          <div class="owl-carousel nonloop-block-13">
-            <div class="testimonial">
-              <div class="vcard-wrap">
-                <img src="images/frontpage/2_ManasiMarulkar.jpg" alt="Image" style="height:100%" class="vcard img-fluid">
-              </div>
-            </div>
-            <div class="testimonial">
-              <div class="vcard-wrap">
-                <img src="images/frontpage/3_SnehalKhatavkar.jpg" alt="Image" style="height:100%" class="vcard img-fluid">
-              </div>
-            </div>
-            <div class="testimonial">
-              <div class="vcard-wrap">
-                <img src="images/frontpage/4_JacintaManuel.jpg" alt="Image" style="height:100%" class="vcard img-fluid">
-              </div>
-            </div>
+      <div class="col-md-12">
+        <div class="owl-carousel nonloop-block-13">
+          <div class="testimonial">
+              <img src="images/schoolbldg/1.jpg" alt="Image" class="vcard img-fluid slide_img">
           </div>
-
+          <div class="testimonial">
+              <img src="images/schoolbldg/2.jpg" alt="Image" class="vcard img-fluid slide_img">
+          </div>
+          <div class="testimonial">
+              <img src="images/schoolbldg/3.jpg" alt="Image" class="vcard img-fluid slide_img">
+          </div>
+          <div class="testimonial">
+              <img src="images/schoolbldg/4.jpg" alt="Image" class="vcard img-fluid slide_img">
+          </div>
+          <div class="testimonial">
+              <img src="images/schoolbldg/5.jpg" alt="Image" class="vcard img-fluid slide_img">
+          </div>
         </div>
       </div>
     </div>
