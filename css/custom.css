@@ -95,8 +95,9 @@ bg_data {
 .slide_img {
     box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.616);
     border-radius: 2em;
+    height: 100%;
 }
 
 .testimonial {
-    margin: 4em;
+    margin: 20px;
 }

@@ -19,22 +19,22 @@
       </div>
     </div>
     <div class="row justify-content-center">
-      <div class="col-md-12">
+      <div class="col-md-11">
         <div class="owl-carousel nonloop-block-13">
           <div class="testimonial">
-              <img src="images/schoolbldg/1.jpg" alt="Image" class="vcard img-fluid slide_img">
+              <img src="images/schoolbldg/1.jpg" alt="Image" class="vcard slide_img">
           </div>
           <div class="testimonial">
-              <img src="images/schoolbldg/2.jpg" alt="Image" class="vcard img-fluid slide_img">
+              <img src="images/schoolbldg/2.jpg" alt="Image" class="vcard slide_img">
           </div>
           <div class="testimonial">
-              <img src="images/schoolbldg/3.jpg" alt="Image" class="vcard img-fluid slide_img">
+              <img src="images/schoolbldg/3.jpg" alt="Image" class="vcard slide_img">
           </div>
           <div class="testimonial">
-              <img src="images/schoolbldg/4.jpg" alt="Image" class="vcard img-fluid slide_img">
+              <img src="images/schoolbldg/4.jpg" alt="Image" class="vcard slide_img">
           </div>
           <div class="testimonial">
-              <img src="images/schoolbldg/5.jpg" alt="Image" class="vcard img-fluid slide_img">
+              <img src="images/schoolbldg/5.jpg" alt="Image" class="vcard slide_img">
           </div>
         </div>
       </div>
