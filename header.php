@@ -75,23 +75,9 @@
             <ul class="site-menu main-menu js-clone-nav mr-auto ">
               <li class="active"><a href="index.php" class="nav-link">Home</a></li>
               <li><a href="about.php" class="nav-link">About</a></li>
+              <li><a href="campus.php" class="nav-link">Campus</a></li>
               <li><a href="gallery.php" class="nav-link">Gallery</a></li>
               <li><a href="contact.php" class="nav-link">Contact</a></li>
-              <li>
-              <div class="btn-group">
-                <button type="button" class="btn">Campus</button>
-                <button type="button" class="btn dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  <span class="sr-only">Toggle Dropdown</span>
-                </button>
-                <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
-                </div>
-              </div>
-              </li>
             </ul>
           </nav>
 

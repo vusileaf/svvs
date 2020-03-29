@@ -2618,7 +2618,7 @@ h5,
 
 .testimonial-3-wrap {
     background: #fd4d40;
-    padding: 30px;
+    padding: -100px;
     -webkit-box-shadow: 0 5px 30px -10px rgba(255, 255, 255, 0.5);
     box-shadow: 0 5px 30px -10px rgba(255, 255, 255, 0.5);
 }
