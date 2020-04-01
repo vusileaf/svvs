@@ -77,11 +77,6 @@ bg_data {
     transform: rotate(360deg);
 }
 
-.box_s_1 {
-    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.616);
-    border-radius: 2em;
-}
-
 .scale_img {
     transition: .3s;
     transform: rotate(0deg);
@@ -94,10 +89,13 @@ bg_data {
 
 .slide_img {
     box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.616);
-    border-radius: 2em;
-    height: 100%;
+    border-radius: 10px;
 }
 
 .testimonial {
     margin: 20px;
+    height: 100%;
+}
+
+
 }

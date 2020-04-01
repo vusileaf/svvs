@@ -68,21 +68,31 @@
       <div class="container">
         <div class="menu-wrap d-flex align-items-center">
           <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
-
-
-
-          <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
+          <!--<nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
             <ul class="site-menu main-menu js-clone-nav mr-auto ">
-              <li class="active"><a href="index.php" class="nav-link">Home</a></li>
-              <li><a href="about.php" class="nav-link">About</a></li>
-              <li><a href="campus.php" class="nav-link">Campus</a></li>
-              <li><a href="gallery.php" class="nav-link">Gallery</a></li>
-              <li><a href="contact.php" class="nav-link">Contact</a></li>
+              <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
+              <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
+              <li class="nav-item"><a href="campus.php" class="nav-link">Campus</a></li>
+              <li class="nav-item"><a href="gallery.php" class="nav-link">Gallery</a></li>
+              <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
             </ul>
-          </nav>
+          </nav>-->
 
+          <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block">
+              <ul class="navbar-nav js-clone-nav mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="campus.php">Campus</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Pricing</a>
+                </li>
+              </ul>
+          </nav>
           <!-- Example split danger button -->
-          
+
 
           <div class="top-social ml-auto">
             <a href="#"><span class="icon-facebook text-teal"></span></a>
@@ -92,3 +102,7 @@
         </div>
       </div>
     </header>
+
+    <script>
+
+    </script>
