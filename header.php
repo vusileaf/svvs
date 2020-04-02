@@ -99,6 +99,12 @@
                 <li class="nav-item">
                   <a class="nav-link" href="about.php">About us</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="balbhavan.php">Balbhavan</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="alumni.php">Alumni</a>
+                </li>
               </ul>
           </nav>
           <!-- Example split danger button -->
