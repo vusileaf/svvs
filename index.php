@@ -106,7 +106,7 @@
       </div>
     </div>
 
-    <div class="site-section">
+<!--    <div class="site-section">
       <div class="container">
         <div class="row">
           <div class="col-md-4">
@@ -145,9 +145,12 @@
         </div>
       </div>
     </div>
-    
+-->
     <div class="site-section bg-light">
+
+
       <div class="container">
+    <!--
         <div class="row mb-5">
           <div class="col-12 text-center">
             <span class="text-cursive h5 text-red d-block">Messages</span>
@@ -205,6 +208,7 @@
             </div>
           </div>
         </div>
+-->
         <div class="row mt-5 justify-content-center">
 
           <div class="col-md-8">
@@ -235,6 +239,7 @@
     </div>
 
 
+<!--
     <div class="site-section py-5 bg-warning">
       <div class="container">
         <div class="row justify-content-center">
@@ -245,6 +250,7 @@
         </div>
       </div>
     </div>
+-->
 <?php include_once 'footer.php' ?>
 
 <?php include_once 'scripts.php' ?>
