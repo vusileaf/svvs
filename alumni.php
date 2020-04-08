@@ -60,9 +60,6 @@
                   </div>
                   <p>Delighted! Yes, always delighted to be a part of SVVS. 'Shree Vijay Vallabh School’ the name itself brings pride, happiness and gush of energy. It’s the place we students worship as an abode of knowledge and enlightenment. It gave us quality education and environment, best of teachers, friends and memories for lifetime.
                     <br>Everything useful in life that paved the way to any and all my success, I learnt it from here, but mostly I learnt to do my best, be kind, stay grounded and let your good work and success speak for itself. I can proudly say on the last day of our school we all had our pencils turned tiny but our spirits flamboyant that ever. Our erasers were flat but our purpose and identity more prominent. Crayons broken but life creatively moulded. Desks clean and avengers set to conquer the next phase with confidence.
-
-
-
                     <br>Thank you!</p>
                 </article>
                 <!--end-->

@@ -105,6 +105,9 @@
                 <li class="nav-item">
                   <a class="nav-link" href="alumni.php">Alumni</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="happenings.php">Happenings</a>
+                </li>
               </ul>
           </nav>
           <!-- Example split danger button -->
