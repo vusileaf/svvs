@@ -5,7 +5,7 @@
             <div class="row align-items-center">
                 <div class="col-md-5 mt-5 pt-5">
                     <h1 class="mb-3 font-weight-bold text-teal">Awards</h1>
-                    <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span>
+                    <p><a href="index.php" class="text-white">Home</a> <span class="mx-3">/</span>
                         <strong>Awards</strong></p>
                 </div>
             </div>
