@@ -4,12 +4,6 @@
           <div class="col-lg-4">
             <h2 class="footer-heading mb-3">About Us</h2>
                 <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-
-                <h2 class="footer-heading mb-4">Newsletter</h2>
-                <form action="#" class="d-flex" class="subscribe">
-                  <input type="text" class="form-control mr-3" placeholder="Email">
-                  <input type="submit" value="Send" class="btn btn-primary">
-                </form>
           </div>
           <div class="col-lg-8 ml-auto">
             <div class="row">
@@ -50,7 +44,6 @@
             </p>
             </div>
           </div>
-
         </div>
       </div>
     </footer>

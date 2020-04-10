@@ -40,8 +40,6 @@
       <div class="site-mobile-menu-body"></div>
     </div>
 
-
-
     <header class="site-navbar site-navbar-target nav_bar_set" role="banner">
 
       <div class="container mb-3  bg_data">
@@ -81,13 +79,37 @@
           <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block">
               <ul class="navbar-nav js-clone-nav mr-auto">
                 <li class="nav-item active">
-                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="campus.php">Campus</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Pricing</a>
+                  <a class="nav-link" href="results.php">Results</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="happenings.php">Happenings</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="iecd.php">IECD</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="compuskills.php">Compuskills</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.php">About</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="academics.php">Academics</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="awards.php">Awards</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="balbhavan.php">Balbhavan</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="alumni.php">Alumni</a>
                 </li>
               </ul>
           </nav>
@@ -95,9 +117,8 @@
 
 
           <div class="top-social ml-auto">
-            <a href="#"><span class="icon-facebook text-teal"></span></a>
-            <a href="#"><span class="icon-twitter text-success"></span></a>
-            <a href="#"><span class="icon-linkedin text-yellow"></span></a>
+            <a href="https://www.facebook.com/vijayvallabhpune/" target="_blank"><span class="icon-facebook text-teal"></span></a>
+            <a href="https://www.youtube.com/channel/UClGXzYiaJh19WU3afvhjkYg" target="_blank"><span class="icon-youtube text-red"></span></a>
           </div>
         </div>
       </div>
